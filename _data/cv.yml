@@ -5,8 +5,6 @@ cv:
   phone: "+46 760633872"
   location: Stockholm, Sweden
   image: ""
-  summary: Ph.D. student at KTH Royal Institute of Technology, focusing on Graph Neural Networks, Graph Representation Learning, and distributed data systems. Founding Engineer at OrbDB Labs.
-
   social_networks:
     - network: GitHub
       username: Zephyroam
