@@ -535,6 +535,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=KX606F4AAAAJ", "_blank");
         },
       },{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("/assets/pdf/resume_academic.pdf", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
