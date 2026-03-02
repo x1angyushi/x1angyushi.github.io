@@ -148,15 +148,25 @@ cv:
         releaseDate: 2022-01-01
 
     Skills:
-      - name: Machine Learning
-        level: Expert
-        icon: fa-solid fa-brain
-        keywords: "Graph Neural Networks, Graph Representation Learning, Anomaly Detection, Conformal Prediction, LLM Agent Systems"
+      - name: LLM Ecosystem
+        icon: fa-solid fa-robot
+        keywords: "HuggingFace Transformers, vLLM, LoRA, LangChain, RAG"
 
-      - name: Programming
-        level: Expert
+      - name: Programming Languages
         icon: fa-solid fa-code
-        keywords: "Python, PyTorch, C++, SQL"
+        keywords: "Python, C/C++, Java, C#"
+
+      - name: Machine Learning
+        icon: fa-solid fa-brain
+        keywords: "PyTorch, Scikit-learn, PyTorch-Geometric"
+
+      - name: MLOps & Deployment
+        icon: fa-solid fa-server
+        keywords: "Docker, FastAPI, MLflow, GitHub Actions, Kubernetes"
+
+      - name: Dev Tools & Cloud
+        icon: fa-solid fa-cloud
+        keywords: "Git, Linux, LaTeX, GCP, AWS, Azure"
 
     Languages:
       - name: Chinese
