@@ -18,12 +18,13 @@ layout: default
     <h1 class="post-title">
       {{ page.title }}
       {% if page.cv_pdfs %}
-        <span class="float-right d-flex gap-3">
+        <span class="float-right" style="display: inline-flex; gap: 0.75rem; align-items: center;">
           {% for pdf in page.cv_pdfs %}
             <a
               href="{{ pdf.url | relative_url }}"
               target="_blank"
               rel="noopener noreferrer"
+              style="display: inline-flex; align-items: center; gap: 0.3rem; padding: 0.2rem 0.65rem; border: 1.5px solid currentColor; border-radius: 6px; font-size: 0.85em; text-decoration: none; white-space: nowrap;"
             >
               <i class="fa-solid fa-file-pdf"></i> {{ pdf.label }}
             </a>
