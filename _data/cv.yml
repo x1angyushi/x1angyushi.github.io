@@ -96,6 +96,7 @@ cv:
           - Dejan Kostic
         publisher: "ICLR 2026"
         releaseDate: 2026-01-01
+        url: https://openreview.net/forum?id=F7rUng23nw
 
       - title: Counterfactual Explanation for Anomaly Detection using Graph Neural Network
         authors:
@@ -104,6 +105,7 @@ cv:
           - Sepideh Pashami
         publisher: "BEHAIV Workshop, ECAI 2025"
         releaseDate: 2025-01-01
+        url: https://slawomir-nowaczyk.github.io/assets/papers-2025/BEHAIV2025_CRV_4.pdf
 
       - title: "AutoMC: Automated Model Compression based on Knowledge Graph and Progressive Search Strategy"
         authors:
@@ -112,6 +114,7 @@ cv:
           - Xiangyu Shi
         publisher: "IEEE ICDE 2024"
         releaseDate: 2024-01-01
+        url: https://ieeexplore.ieee.org/document/10598157
 
       - title: Fair Federated Learning with Multi-Objective Hyperparameter Optimization
         authors:
@@ -120,6 +123,7 @@ cv:
           - Hongzhi Wang
         publisher: "ACM Transactions on Knowledge Discovery from Data (TKDD)"
         releaseDate: 2023-01-01
+        url: https://doi.org/10.1145/3676968
 
       - title: Audio Compression-assisted Feature Extraction for Voice Replay Attack Detection
         authors:
@@ -132,6 +136,7 @@ cv:
           - Zhizheng Wu
         publisher: "Preprint (arXiv)"
         releaseDate: 2023-01-01
+        url: https://arxiv.org/abs/2310.05813
 
       - title: "CO-AutoML: An Optimizable Automated Machine Learning System"
         authors:
@@ -143,6 +148,7 @@ cv:
           - Yuhao Bao
         publisher: "DASFAA 2022 Demo Track"
         releaseDate: 2022-01-01
+        url: https://dl.acm.org/doi/abs/10.1007/978-3-031-00129-1_45
 
     Skills:
       - name: LLM Ecosystem
