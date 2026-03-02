@@ -53,16 +53,18 @@ cv:
         location: Remote
         start_date: 2025-12-01
         highlights:
-          - "Maintained and extended large-scale LLM agent frameworks (CAMEL (16k+★) and Eigent (12k+★)), focusing on agent orchestration, memory, and tool use."
-          - Reviewed PRs, fixed bugs, and improved code quality and system stability.
+          - Contributed to core mechanism design and architectural evolution of large-scale LLM agent frameworks (CAMEL (16k+★) and Eigent (12k+★)), focusing on agent orchestration, memory systems, and multi-tool invocation, improving stability and scalability in complex multi-step reasoning tasks.
+          - Designed Prompt Caching and long tool-output management mechanisms to reduce redundant inference overhead, improving throughput and stability in multi-turn agent interaction scenarios.
+          - Actively contributed to the open-source community through high-quality PR reviews and critical bug fixes, improving system stability and developer experience.
 
       - company: OrbDB Labs AB
         position: Founding Engineer
         location: Stockholm, Sweden
         start_date: 2023-11-01
         highlights:
-          - Co-founded Orb DB, a startup building a hybrid database engine that integrates Graph ML inference into query execution with built-in uncertainty estimation.
-          - Delivered the first PoC that drove substantial production improvements for a medium-scale industry partner, leading to follow-on funding.
+          - Co-founded Orb DB and designed a hybrid database engine that natively integrates Graph ML inference into the query execution pipeline, supporting embedded GNN inference and multi-hop relational prediction within query plans.
+          - Built uncertainty estimation mechanisms incorporating conformal prediction, providing confidence intervals and risk control for graph embedding inference results.
+          - Led the architecture design and delivery of the first PoC, driving production improvements for an industry partner and securing follow-on funding.
 
       - company: Scania AB
         position: Machine Learning Engineer (Thesis)
@@ -70,8 +72,8 @@ cv:
         start_date: 2025-02-01
         end_date: 2025-06-01
         highlights:
-          - Developed an end-to-end anomaly detection pipeline for vehicle sensor data with Graph Neural Networks.
-          - Implemented counterfactual reasoning algorithms to provide explainable AI (XAI) features, reducing root-cause diagnosis time for engineering teams.
+          - Built an end-to-end anomaly detection system for high-dimensional vehicle sensor data using Graph Neural Networks to capture cross-sensor structural dependencies from multivariate time-series, enabling complex system behavior modeling.
+          - Proposed and implemented a counterfactual explanation framework leveraging graph structure, providing actionable, causally-oriented anomaly explanations via a two-stage process (influential sensor node selection + minimal-perturbation counterfactual generation), facilitating root-cause localization.
 
       - company: "Chinese University of Hong Kong, Shenzhen"
         position: Research Assistant
@@ -79,7 +81,7 @@ cv:
         start_date: 2023-04-01
         end_date: 2023-10-01
         highlights:
-          - Implemented a feature extraction approach that uses audio compression in voice replay attack detection. Achieved state-of-the-art performance on the ASVspoof 2021 dataset.
+          - Proposed a feature extraction method based on audio compression residuals for voice replay attack detection, achieving state-of-the-art performance on the ASVspoof 2021 dataset.
 
       - company: Harbin Institute of Technology
         position: Research Assistant
@@ -87,8 +89,8 @@ cv:
         start_date: 2021-01-01
         end_date: 2022-05-01
         highlights:
-          - Developed AutoMC, an open-source automated knowledge-graph–guided progressive search compression framework achieving 70% model size reduction with zero accuracy drop.
-          - Implemented multi-objective hyper-parameter optimization for Federated Learning, balancing performance and fairness.
+          - Developed AutoMC, an automated model compression framework guided by knowledge graphs and progressive search, achieving ~70% model size reduction with zero accuracy loss.
+          - Applied multi-objective hyperparameter optimization to Federated Learning, enhancing fairness among participants while maintaining model accuracy.
 
     Publications:
       - title: "KVComm: Enabling Efficient LLM Communication through Selective KV Sharing"
