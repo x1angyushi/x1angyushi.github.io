@@ -62,7 +62,7 @@ cv:
         highlights:
           - Co-founded Orb DB and designed a hybrid database engine that natively integrates Graph ML inference into the query execution pipeline, supporting embedded GNN inference and multi-hop relational prediction within query plans.
           - Built uncertainty estimation mechanisms incorporating conformal prediction, providing confidence intervals and risk control for graph embedding inference results.
-          - Led the architecture design and delivery of the first PoC, driving production improvements for an industry partner and securing ~$1.4M USD (15M SEK) seed funding.
+          - Led the architecture design and delivery of the first PoC, driving production improvements for an industry partner and securing follow-on funding.
 
       - company: Scania AB
         position: Machine Learning Engineer (Thesis)
