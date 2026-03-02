@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student at [KTH Royal Institute of Technology](https://www.kth.se/en) (since June 2025), and a Founding Engineer at [OrbDB Labs](https://orbdb.github.io/), a startup building a hybrid database engine that integrates Graph ML inference into query execution. My research interests include Graph Representation Learning, Graph Neural Networks, and distributed data systems.
+I am a Ph.D. student in the [School of EECS](https://www.kth.se/eecs) at [KTH Royal Institute of Technology](https://www.kth.se/en), supervised by [Prof. Dejan Kostić](https://dejankosticgithub.github.io/index.html) (Chair Professor of Internetworking). My research sits at the intersection of distributed systems and machine learning, with a current focus on efficient inference and communication for large language models. More broadly, I am interested in Graph Neural Networks, Graph Representation Learning, and systems-level optimizations for ML workloads. I am also a Founding Engineer at [OrbDB Labs](https://orbdb.github.io/), a startup building a hybrid database engine that integrates Graph ML inference into query execution.
 
 I completed my Master's in Machine Learning at KTH (2023–2025), including an exchange semester at [EPFL](https://www.epfl.ch/en/) (2024–2025). During my master's, I worked as a research engineer at KTH advised by [Sonia Horchidan](https://soniahorchidan.github.io/) and [Prof. Paris Carbone](https://www.kth.se/profile/parisc), focusing on Conformal Prediction for Graph Embedding Spaces.
 
