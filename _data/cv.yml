@@ -44,7 +44,7 @@ cv:
         start_date: 2019-08-01
         end_date: 2023-06-01
         highlights:
-          - Overall score: 91.95/100
+          - "Overall score: 91.95/100"
 
     Experience:
       - company: Eigent AI
