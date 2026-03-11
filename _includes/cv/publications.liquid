@@ -42,6 +42,26 @@
             {% if entry.summary %}
               <p class="ml-1 ml-md-4">{{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}</p>
             {% endif %}
+
+            {% if entry.links %}
+              <div class="ml-1 ml-md-4 mt-2 d-flex flex-wrap" style="gap: 0.4rem">
+                {% for link in entry.links %}
+                  <a
+                    {% if link.url contains '://' %}
+                      href="{{ link.url }}"
+                    {% else %}
+                      href="{{ link.url | relative_url }}"
+                    {% endif %}
+                    class="btn btn-sm z-depth-0"
+                    role="button"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {{- link.label -}}
+                  </a>
+                {% endfor %}
+              </div>
+            {% endif %}
           </div>
         {% else %}
           <div class="col-xs-12 col-sm-12 col-md-12">
@@ -61,6 +81,26 @@
 
             {% if entry.summary %}
               <p class="ml-1 ml-md-4">{{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+            {% endif %}
+
+            {% if entry.links %}
+              <div class="ml-1 ml-md-4 mt-2 d-flex flex-wrap" style="gap: 0.4rem">
+                {% for link in entry.links %}
+                  <a
+                    {% if link.url contains '://' %}
+                      href="{{ link.url }}"
+                    {% else %}
+                      href="{{ link.url | relative_url }}"
+                    {% endif %}
+                    class="btn btn-sm z-depth-0"
+                    role="button"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {{- link.label -}}
+                  </a>
+                {% endfor %}
+              </div>
             {% endif %}
           </div>
         {% endif %}

@@ -52,7 +52,7 @@ cv:
         location: Remote
         start_date: 2025-12-01
         highlights:
-          - Contributed to core mechanism design and architectural evolution of large-scale LLM agent frameworks (CAMEL (16k+★) and Eigent (12k+★)), focusing on agent orchestration, memory systems, and multi-tool invocation, improving stability and scalability in complex multi-step reasoning tasks.
+          - Contributed to core mechanism design and architectural evolution of large-scale LLM agent frameworks ([CAMEL](https://github.com/camel-ai/camel/) (16k+★) and [Eigent](https://github.com/eigent-ai/eigent/) (12k+★)), focusing on agent orchestration, memory systems, and multi-tool invocation, improving stability and scalability in complex multi-step reasoning tasks.
           - Designed Prompt Caching and long tool-output management mechanisms to reduce redundant inference overhead, improving throughput and stability in multi-turn agent interaction scenarios.
           - Actively contributed to the open-source community through high-quality PR reviews and critical bug fixes, improving system stability and developer experience.
 
@@ -61,7 +61,7 @@ cv:
         location: Stockholm, Sweden
         start_date: 2023-11-01
         highlights:
-          - Co-founded Orb DB and designed a hybrid database engine that natively integrates Graph ML inference into the query execution pipeline, supporting embedded GNN inference and multi-hop relational prediction within query plans.
+          - Co-founded [Orb DB](https://orbdb.github.io/) and designed a hybrid database engine that natively integrates Graph ML inference into the query execution pipeline, supporting embedded GNN inference and multi-hop relational prediction within query plans.
           - Built uncertainty estimation mechanisms incorporating conformal prediction, providing confidence intervals and risk control for graph embedding inference results.
           - Led the architecture design and delivery of the first PoC, driving production improvements for an industry partner and securing follow-on funding.
 
@@ -101,6 +101,11 @@ cv:
         publisher: "ICLR 2026"
         releaseDate: 2026-01-01
         url: https://openreview.net/forum?id=F7rUng23nw
+        links:
+          - label: Paper
+            url: https://openreview.net/forum?id=F7rUng23nw
+          - label: GitHub
+            url: https://github.com/Zephyroam/KVComm
 
       - title: Counterfactual Explanation for Anomaly Detection using Graph Neural Network
         authors:
@@ -110,6 +115,9 @@ cv:
         publisher: "BEHAIV Workshop, ECAI 2025"
         releaseDate: 2025-01-01
         url: https://slawomir-nowaczyk.github.io/assets/papers-2025/BEHAIV2025_CRV_4.pdf
+        links:
+          - label: Paper
+            url: https://slawomir-nowaczyk.github.io/assets/papers-2025/BEHAIV2025_CRV_4.pdf
 
       - title: "AutoMC: Automated Model Compression based on Knowledge Graph and Progressive Search Strategy"
         authors:
@@ -119,6 +127,13 @@ cv:
         publisher: "IEEE ICDE 2024"
         releaseDate: 2024-01-01
         url: https://ieeexplore.ieee.org/document/10598157
+        links:
+          - label: Paper
+            url: https://ieeexplore.ieee.org/document/10598157
+          - label: Slides
+            url: https://docs.google.com/presentation/d/1WTRAR1Jb2mOnVqAr_tm3nFLBpS-WbvJ0z7quIkcSC40/edit?usp=sharing
+          - label: GitHub
+            url: https://github.com/wangcn0201/AutoMC
 
       - title: Fair Federated Learning with Multi-Objective Hyperparameter Optimization
         authors:
@@ -128,6 +143,11 @@ cv:
         publisher: "ACM Transactions on Knowledge Discovery from Data (TKDD)"
         releaseDate: 2023-01-01
         url: https://doi.org/10.1145/3676968
+        links:
+          - label: Paper
+            url: https://doi.org/10.1145/3676968
+          - label: GitHub
+            url: https://github.com/Zephyroam/FedL
 
       - title: Audio Compression-assisted Feature Extraction for Voice Replay Attack Detection
         authors:
@@ -141,6 +161,9 @@ cv:
         publisher: "Preprint (arXiv)"
         releaseDate: 2023-01-01
         url: https://arxiv.org/abs/2310.05813
+        links:
+          - label: arXiv
+            url: https://arxiv.org/abs/2310.05813
 
       - title: "CO-AutoML: An Optimizable Automated Machine Learning System"
         authors:
@@ -153,6 +176,9 @@ cv:
         publisher: "DASFAA 2022 Demo Track"
         releaseDate: 2022-01-01
         url: https://dl.acm.org/doi/abs/10.1007/978-3-031-00129-1_45
+        links:
+          - label: Paper
+            url: https://dl.acm.org/doi/abs/10.1007/978-3-031-00129-1_45
 
     Skills:
       - name: LLM Ecosystem
