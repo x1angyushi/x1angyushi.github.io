@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student at <a href='https://www.kth.se/en'>KTH Royal Institute of Technology</a>
+subtitle: Researcher in LLM Systems and Multi-Agent Systems
 
 # profile:
 #   align: right
@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in the [School of EECS](https://www.kth.se/eecs) at [KTH Royal Institute of Technology](https://www.kth.se/en), supervised by [Prof. Dejan Kostić](https://dejankosticgithub.github.io/index.html). My research focuses on efficient large language model systems and multi-agent systems.
+I was an admitted Ph.D. student in the [School of EECS](https://www.kth.se/eecs) at [KTH Royal Institute of Technology](https://www.kth.se/en), supervised by [Prof. Dejan Kostić](https://dejankosticgithub.github.io/index.html), but had to discontinue the program in March 2026 due to visa issues. My research focuses on efficient large language model systems and multi-agent systems.
 
 Outside academia, I am an AI Engineer Intern at [Eigent AI](https://www.eigent.ai/), where I contribute to large-scale LLM agent frameworks including [CAMEL](https://www.camel-ai.org/) and Eigent. I am also a Founding Engineer at [OrbDB Labs](https://orbdb.github.io/), where we are building a hybrid database engine that integrates Graph ML inference into the query execution pipeline.
 

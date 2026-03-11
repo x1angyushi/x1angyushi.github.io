@@ -14,8 +14,11 @@ cv:
         location: Stockholm, Sweden
         url: https://www.kth.se/en
         area: Computer Science
-        studyType: Ph.D. Student
+        studyType: Admitted Ph.D. Student
         start_date: 2025-06-01
+        end_date: 2026-03-01
+        highlights:
+          - Program discontinued in March 2026 due to visa constraints.
 
       - institution: KTH Royal Institute of Technology
         location: Stockholm, Sweden
@@ -40,7 +43,8 @@ cv:
         studyType: Bachelor of Engineering
         start_date: 2019-08-01
         end_date: 2023-06-01
-        score: "GPA: 91.95/100"
+        highlights:
+          - Overall score: 91.95/100
 
     Experience:
       - company: Eigent AI

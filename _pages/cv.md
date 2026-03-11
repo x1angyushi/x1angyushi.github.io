@@ -11,6 +11,4 @@ toc:
 cv_pdfs:
   - url: /assets/pdf/resume_en.pdf
     label: EN
-  - url: /assets/pdf/resume_cn.pdf
-    label: 中文
 ---
