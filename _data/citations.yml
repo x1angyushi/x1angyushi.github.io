@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-13'
 papers:
   KX606F4AAAAJ:2osOgNQ5qMEC:
     citations: 3
@@ -25,3 +25,7 @@ papers:
     citations: 0
     title: 'CO-AutoML: An Optimizable Automated Machine Learning System'
     year: '2022'
+  KX606F4AAAAJ:zYLM7Y9cAGgC:
+    citations: 0
+    title: 'ConRAD: Conformal Risk-Aware Neural Databases'
+    year: '2026'
