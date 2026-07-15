@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-07-15'
 papers:
   KX606F4AAAAJ:2osOgNQ5qMEC:
     citations: 3
@@ -13,8 +13,12 @@ papers:
     citations: 1
     title: Counterfactual Explanation for Anomaly Detection using Graph Neural Network
     year: '2025'
+  KX606F4AAAAJ:Tyk-4Ss8FVUC:
+    citations: 0
+    title: Counterfactual Explanations on Graph Neural Networks for Time Series Anomaly Detection
+    year: '2025'
   KX606F4AAAAJ:UeHWp8X0CEIC:
-    citations: 3
+    citations: 5
     title: 'KVComm: Enabling Efficient LLM Communication through Selective KV Sharing'
     year: '2025'
   KX606F4AAAAJ:d1gkVwhDpl0C:
