@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-14'
 papers:
   KX606F4AAAAJ:2osOgNQ5qMEC:
     citations: 3
@@ -7,20 +7,20 @@ papers:
     year: '2023'
   KX606F4AAAAJ:9yKSN-GCB0IC:
     citations: 3
-    title: 'AutoMC: Automated Model Compression based on Domain Knowledge and Progressive search strategy'
-    year: '2022'
+    title: 'Automc: Automated model compression based on domain knowledge and progressive search'
+    year: '2024'
   KX606F4AAAAJ:IjCSPb-OGe4C:
     citations: 1
-    title: Counterfactual Explanation for Anomaly Detection using Graph Neural Network
+    title: Counterfactual Explanation for Anomaly Detection using Graph Neural Network.
     year: '2025'
   KX606F4AAAAJ:Tyk-4Ss8FVUC:
     citations: 0
     title: Counterfactual Explanations on Graph Neural Networks for Time Series Anomaly Detection
     year: '2025'
   KX606F4AAAAJ:UeHWp8X0CEIC:
-    citations: 6
-    title: 'KVComm: Enabling Efficient LLM Communication through Selective KV Sharing'
-    year: '2025'
+    citations: 8
+    title: 'Kvcomm: Enabling efficient llm communication through selective kv sharing'
+    year: '2026'
   KX606F4AAAAJ:d1gkVwhDpl0C:
     citations: 3
     title: Fair Federated Learning with Multi-Objective Hyperparameter Optimization
